@@ -8,3 +8,8 @@ sixth line
 feature branch
 
 last commit from GitHub
+
+feature branch
+first commit
+second commit
+
